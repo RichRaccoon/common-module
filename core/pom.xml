@@ -11,7 +11,7 @@
         <relativePath>../dependency-management-bom/pom.xml</relativePath>
     </parent>
 
-    <artifactId>core</artifactId>
+    <artifactId>common-core</artifactId>
     <packaging>jar</packaging>
 
 </project>

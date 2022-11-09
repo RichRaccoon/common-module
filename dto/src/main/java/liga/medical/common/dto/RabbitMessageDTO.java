@@ -4,6 +4,7 @@ import lombok.Data;
 
 @Data
 public class RabbitMessageDTO {
+    private long id;
     private MessageType type;
-    private String content;
+    private String description;
 }
